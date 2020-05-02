@@ -4,8 +4,8 @@ try to sleep and Attendance in class(nima, aut online courses system)
 ```bash
 sudo apt-get install xdotool
 ```
-install google chrome
-[a link](https://linuxize.com/post/how-to-install-google-chrome-web-browser-on-ubuntu-18-04/)
+install 
+[google chrome](https://linuxize.com/post/how-to-install-google-chrome-web-browser-on-ubuntu-18-04/)
 
 ### Display setting
 use 3840 *2160(16:9)
