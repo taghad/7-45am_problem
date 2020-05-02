@@ -1,5 +1,6 @@
 # 8am_problem
 try to sleep and Attendance in class(nima, aut online courses system)
+you can run this on your linux machine.
 ## Install dependency
 ```bash
 sudo apt-get install xdotool
