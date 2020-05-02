@@ -1,6 +1,6 @@
 #! /bin/bash
 
-RUNAT="21:19"
+RUNAT="10:10"
 
 while [ 1 ]
 do
